@@ -1,0 +1,21 @@
+/* styles the root node */
+.root {
+    -fx-background-color: "#000"; /* black */
+    -fx-width
+}
+
+/* applies css styling to the Label class */
+.label {
+    -fx-font-size: 20;
+    -fx-font-family: "Lucide Console";
+    -fx-text-fill: "white";
+    -fx-alignment: center;
+}
+
+#label1 {
+    -fx-font-size: 60;
+}
+
+#label2 {
+
+}
