@@ -25,7 +25,7 @@ public class PrimaryController implements Initializable {
 
     @FXML
     private Button resetButton;
-    
+
     private Media media;
 
     private MediaPlayer mediaPlayer;
